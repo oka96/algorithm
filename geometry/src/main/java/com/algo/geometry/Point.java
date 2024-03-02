@@ -1,3 +1,5 @@
+package com.algo.geometry;
+
 import com.algo.geometry.constant.GeometryConstant;
 
 /**
