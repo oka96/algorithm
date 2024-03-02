@@ -25,4 +25,11 @@ public class Point implements Comparable<Point> {
             return 0;
         }
     }
+
+    public static double distance(Point p1, Point p2){
+        double dx = Math.abs(p1.x-p2.x);
+        double dy = Math.abs(p1.y-p2.y);
+        return Math.sqrt(dx*dx + dy*dy);
+    }
+
 }
