@@ -1,1 +1,1 @@
-Include different algorithm.
+Try write algorithm while reading Competitive Programming 4 by Steven Halim.
